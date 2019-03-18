@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\VisualBasic\VisualBasic\bin\Debug\VisualBasic.exe.config
+C:\Users\User\Desktop\VisualBasic\VisualBasic\bin\Debug\VisualBasic.exe
+C:\Users\User\Desktop\VisualBasic\VisualBasic\bin\Debug\VisualBasic.pdb
+C:\Users\User\Desktop\VisualBasic\VisualBasic\bin\Debug\VisualBasic.xml
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.Form1.resources
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.Resources.resources
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.exe
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.xml
+C:\Users\User\Desktop\VisualBasic\VisualBasic\obj\Debug\VisualBasic.pdb
